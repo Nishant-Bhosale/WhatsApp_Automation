@@ -1,0 +1,5 @@
+{"level":30,"time":"2023-08-12T12:01:12.977Z","pid":28401,"hostname":"G3-Vijender","msg":"Listening on 33337"}
+{"level":30,"time":"2023-08-12T12:01:13.035Z","pid":28401,"hostname":"G3-Vijender","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-08-12T12:01:13.036Z","pid":28401,"hostname":"G3-Vijender","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-08-12T12:01:13.050Z","pid":28401,"hostname":"G3-Vijender","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-08-12T12:01:13.050Z","pid":28401,"hostname":"G3-Vijender","msg":"End of node method getBrowserCatalog"}
